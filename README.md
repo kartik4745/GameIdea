@@ -41,7 +41,7 @@ cd your-repo-name
   </li>
 
   <li><strong>Create a new file to share your game idea</strong><br>
-    Inside the <code>/ideas</code> folder, create a new file named like this:
+    Inside the GamesIdea folder only, create a new file named like this:
     <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 1.1em;">
 YourName_GameTitle.md
     </pre>

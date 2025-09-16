@@ -5,7 +5,7 @@ Welcome to **Game Idea Hub** — the ultimate playground for creative minds who 
 Whether you're an experienced developer or just starting out, this is your space to unleash your creativity, pitch original game concepts, and explore what others are dreaming up. From quirky puzzles to epic adventures — it all starts with an idea.
 
 ---
-> Replace `https://github.com/AjaysDevWorkspace/GamesIdea` with your actual GitHub repo info.
+>  `https://github.com/AjaysDevWorkspace/GamesIdea`
 
 ---
 
@@ -19,7 +19,6 @@ Whether you're an experienced developer or just starting out, this is your space
 
 ---
 
-## 📌 How to Submit Your Game Idea
 <h2>📌 How to Submit Your Game Idea</h2>
 
 <p>Ready to share your awesome game idea? Just follow these simple steps:</p>

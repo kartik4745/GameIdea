@@ -30,19 +30,19 @@ Whether you're an experienced developer or just starting out, this is your space
 ## 📌 How to Submit Your Game Idea
 📌 How to Submit Your Game Idea
 
-Ready to share your awesome game idea? Just follow these simple steps:
+1. Ready to share your awesome game idea? Just follow these simple steps:
 
-Fork this repository
-Click the Fork button at the top-right corner of this page. This will create a copy of this repo in your own GitHub account.
+2.Fork this repository
+   Click the Fork button at the top-right corner of this page. This will create a copy of this repo in your own GitHub account.
 
-Go to your GitHub account
-Open the forked repository from your profile (it will have the same name).
+3. Go to your GitHub account
+   Open the forked repository from your profile (it will have the same name).
 
-Clone your forked repository
-Copy the repository URL from your fork and run this command in your terminal to clone it to your local machine:
+4. Clone your forked repository
+   Copy the repository URL from your fork and run this command in your terminal to clone it to your local machine:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+5. git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
 
 
 Create a new file to share your game idea

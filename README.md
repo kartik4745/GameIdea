@@ -28,17 +28,43 @@ Whether you're an experienced developer or just starting out, this is your space
 ---
 
 ## 📌 How to Submit Your Game Idea
+📌 How to Submit Your Game Idea
 
-Follow these simple steps to contribute your idea:
+Ready to share your awesome game idea? Just follow these simple steps:
 
-1. **Fork** this repository.
-2. **Clone** your fork to your local machine.
-3. Navigate to the `/ideas` folder.
-4. **Create a new `.md` file** named like this: `YourName_GameTitle.md`
-5. Use the template below to describe your idea.
-6. **Commit & Push** your changes.
-7. Open a **Pull Request** to submit your idea!
+Fork this repository
+Click the Fork button at the top-right corner of this page. This will create a copy of this repo in your own GitHub account.
 
+Go to your GitHub account
+Open the forked repository from your profile (it will have the same name).
+
+Clone your forked repository
+Copy the repository URL from your fork and run this command in your terminal to clone it to your local machine:
+
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+
+Create a new file to share your game idea
+Inside the /ideas folder, create a new file named like this:
+
+YourName_GameTitle.md
+
+
+Use the provided Game Idea Template
+ to describe your idea clearly.
+
+Push your changes to your fork
+After saving your file, run:
+
+git add ideas/YourName_GameTitle.md
+git commit -m "Add game idea: Your Game Title"
+git push origin main
+
+
+Create a Pull Request
+Go back to your forked repository on GitHub.
+Click the Contribute button, then select Open pull request to submit your idea for review.
 ---
 
 ## 📝 Game Idea Template

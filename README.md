@@ -1,5 +1,3 @@
-# GamesIdea
-
 # 🎮 Game Idea Hub
 
 Welcome to **Game Idea Hub** — the ultimate playground for creative minds who dream of crafting the next big game! 🚀

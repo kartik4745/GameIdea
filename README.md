@@ -74,25 +74,25 @@ git push origin main
 
 ```markdown
 # Game Title
-(What’s your game called?)
+(Enormous Clashing)
 
 ## Concept
-(A short summary of your game idea in 2–3 sentences.)
+(A game for clashers!!)
 
 ## Gameplay
-(How does the game work? What’s the player’s objective?)
+(Multiplayer)
 
 ## Unique Features
-(What makes your game different or exciting?)
+(Insane graphics,Fully optimized game even for low end devices.)
 
 ## Target Audience
-(Who is this game for? Age group, interests, etc.)
+(Age group- Everyone above 12+ years of age.)
 
 ## Art Style & Theme
-(Optional – describe the visual style, tone, or theme.)
+(Red Theme)
 
 ## Inspiration
-(What inspired you? Any similar games or concepts?)
+(None)
 
 ## Tools or Platforms (Optional)
 (Do you imagine this being built in Unity, Unreal, web, mobile, etc.?)

@@ -7,13 +7,7 @@ Welcome to **Game Idea Hub** — the ultimate playground for creative minds who 
 Whether you're an experienced developer or just starting out, this is your space to unleash your creativity, pitch original game concepts, and explore what others are dreaming up. From quirky puzzles to epic adventures — it all starts with an idea.
 
 ---
-
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo-name?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name?style=flat-square)
-
-> Replace `your-username/your-repo-name` with your actual GitHub repo info.
+> Replace `https://github.com/AjaysDevWorkspace/GamesIdea` with your actual GitHub repo info.
 
 ---
 
@@ -28,44 +22,56 @@ Whether you're an experienced developer or just starting out, this is your space
 ---
 
 ## 📌 How to Submit Your Game Idea
-📌 How to Submit Your Game Idea
+<h2>📌 How to Submit Your Game Idea</h2>
 
-1. Ready to share your awesome game idea? Just follow these simple steps:
+<p>Ready to share your awesome game idea? Just follow these simple steps:</p>
 
-2.Fork this repository
-   Click the Fork button at the top-right corner of this page. This will create a copy of this repo in your own GitHub account.
+<ol style="font-size: 1.1em; line-height: 1.6; font-family: Arial, sans-serif; margin-bottom: 20px;">
+  <li><strong>Fork this repository</strong><br>
+    Click the <strong>Fork</strong> button at the top-right corner of this page. This will create a copy of this repo in your own GitHub account.
+  </li>
 
-3. Go to your GitHub account
-   Open the forked repository from your profile (it will have the same name).
+  <li><strong>Go to your GitHub account</strong><br>
+    Open the forked repository from your profile (it will have the same name).
+  </li>
 
-4. Clone your forked repository
-   Copy the repository URL from your fork and run this command in your terminal to clone it to your local machine:
+  <li><strong>Clone your forked repository</strong><br>
+    Copy the repository URL from your fork and run this command in your terminal to clone it to your local machine:
+    <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 1.1em;">
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+    </pre>
+  </li>
 
-5. git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-
-Create a new file to share your game idea
-Inside the /ideas folder, create a new file named like this:
-
+  <li><strong>Create a new file to share your game idea</strong><br>
+    Inside the <code>/ideas</code> folder, create a new file named like this:
+    <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 1.1em;">
 YourName_GameTitle.md
+    </pre>
+  </li>
 
+  <li><strong>Use the provided Game Idea Template</strong><br>
+    Use the template below to describe your idea clearly.
+  </li>
 
-Use the provided Game Idea Template
- to describe your idea clearly.
-
-Push your changes to your fork
-After saving your file, run:
-
+  <li><strong>Push your changes to your fork</strong><br>
+    After saving your file, run:
+    <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 1.1em;">
 git add ideas/YourName_GameTitle.md
 git commit -m "Add game idea: Your Game Title"
 git push origin main
+    </pre>
+  </li>
 
+  <li><strong>Create a Pull Request</strong><br>
+    Go back to your forked repository on GitHub. Click the <strong>Contribute</strong> button, then select <strong>Open pull request</strong> to submit your idea for review.
+  </li>
+</ol>
 
-Create a Pull Request
-Go back to your forked repository on GitHub.
-Click the Contribute button, then select Open pull request to submit your idea for review.
----
+<p style="font-style: italic; color: #666;">&lt; Tips &gt;<br>
+- Make sure your file name matches the format exactly.<br>
+- Double-check your spelling and idea clarity.<br>
+- Feel free to add images or links in your .md file to better explain your concept.</p>
 
 ## 📝 Game Idea Template
 
